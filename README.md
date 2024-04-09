@@ -28,7 +28,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 There are one notebook available here to showcase work related to the above questions. It is  exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown  cells were used to assist in walking through the thought process for individual steps.
 
 ## 4. Results<a name="results"></a>
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@franciskongolo2002/which-country-hosts-more-developers-in-the-world-and-well-paid-73aec5b71ea3).
 
 ## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). Otherwise, feel free to use the code here as you would like!
